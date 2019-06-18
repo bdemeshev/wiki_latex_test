@@ -13,3 +13,6 @@ sd
 __sdfsdfsdf__
 
 <p align="center"><img src="/tex/e9d633b7569ffa6a7d294a66b59326ed.svg?invert_in_darkmode&sanitize=true" align=middle width=90.09111705pt height=17.340952199999997pt/></p>
+
+
+[куда идти-то](https://github.com/bdemeshev/wiki_latex_test/blob/master/test.md)
